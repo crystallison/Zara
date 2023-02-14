@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zara</string>
+
+    <!-- Characters List View -->
+    <string name="characters_list_search_hint">Search character name</string>
+    <string name="character_name_placeholder">#%d - %s</string>
+    <string name="character_creation_label">Created on:</string>
+    <string name="character_status_label">Status:</string>
+    <string name="character_origin_label">Origin:</string>
+    <string name="character_species_label">Species:</string>
+    <string name="character_type_label">Type:</string>
+    <string name="character_gender_label">Gender:</string>
+    <string name="character_location_label">Last known location:</string>
+    <string name="character_episodes_label">Number of episodes:</string>
+    <string name="character_unknown_text">Unknown</string>
+    <string name="character_link_label">View raw data</string>
+    <plurals name="character_episodes_plural">
+        <item quantity="one">%d episode</item>
+        <item quantity="other">%d episodes</item>
+    </plurals>
+    <string name="loading_data">Loading data…</string>
+    <string name="character_details_title">Character details</string>
+</resources>
